@@ -2,6 +2,10 @@
 
 Minimal example showing a working Vue Advanced Chat with Nuxt 3 and Nitro.
 
+## About
+
+![screentshot](./screenshot.png)
+
 ## Setup
 
 Make sure to install the dependencies:
